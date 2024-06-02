@@ -21,7 +21,7 @@ export default function App() {
           <Sidebar />
           <div className="items-center mt-0 justify-center w-full">
             <Maincontent sub={setallvalue} />
-           
+           swfwfsffscewfcfcdccc
           </div>
         </div>
       </div>

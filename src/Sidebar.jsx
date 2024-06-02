@@ -1,5 +1,5 @@
 import React from 'react'
-import Contactlist from './Contactlist'
+
 
 export default function Sidebar() {
   return (

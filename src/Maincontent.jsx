@@ -32,7 +32,7 @@ export default function Maincontent() {
   return (
     <>
 
-      <div className='flex  bg-teal-600 rounded-2xl m-6 p-6 justify-center items-center h-full mt-7'>
+<div className='flex  bg-teal-600 rounded-2xl m-6 p-6 justify-center items-center h-full mt-7'>
         <div className='mr-10'>
           <i className="fa fa-camera  p-6 rounded-full  bg-slate-300 text-4xl" aria-hidden="true"></i>
           <h1 className='font-semibold'>Add picture</h1>
